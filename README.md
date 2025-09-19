@@ -6,6 +6,7 @@ A research project investigating narrative-based user interfaces as an alternati
 **Institution:** Fontys ICT
 **Partners:** Naturalis Biodiversity Center, Utrecht University
 **Year:** 2025
+**Website:** https://vince-colson-tm.github.io/LegaSea-Narrative-UI/
 
 ## Project Overview
 
