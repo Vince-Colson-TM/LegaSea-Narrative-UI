@@ -2,11 +2,11 @@
 
 A research project investigating narrative-based user interfaces as an alternative to traditional form-based data collection methods for AI fossil identification, conducted as part of the LegaSea project.
 
-**Author:** Vince Colson
-**Institution:** Fontys ICT
-**Partners:** Naturalis Biodiversity Center, Utrecht University
-**Year:** 2025
-**Website:** https://vince-colson-tm.github.io/LegaSea-Narrative-UI/
+- **Author:** Vince Colson
+- **Institution:** Fontys ICT
+- **Partners:** Naturalis Biodiversity Center, Utrecht University
+- **Year:** 2025
+- **Website:** https://vince-colson-tm.github.io/LegaSea-Narrative-UI/
 
 ## Project Overview
 
